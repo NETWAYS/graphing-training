@@ -1,6 +1,12 @@
 # Open Source Training for Graphite and Grafana CHANGELOG
 
 
+## v2.3.1 (2020-10-16)
+
+### Notes
+
+* NETWAYS petrol layout
+
 ## v2.3.0 (2020-04-20)
 
 ### Notes

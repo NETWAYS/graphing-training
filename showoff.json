@@ -2,7 +2,7 @@
   "name": "Graphite + Grafana",
   "subtitle": "Time Series Metrics",
   "author": "Original authors: Blerim Sheqa & Markus Waldm&uuml;ller",
-  "release": "2.3.0",
+  "release": "2.3.1",
 
   "favicon": "global/favicon.ico",
 
